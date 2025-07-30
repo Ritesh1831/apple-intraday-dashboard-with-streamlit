@@ -6,11 +6,11 @@ import plotly.graph_objects as go
 from datetime import datetime
 
 st.set_page_config(
-    page_title="Real-Time Stock Dashboard",
+    page_title="aapl-intraday-dashboard",
     layout="wide"
 )
 
-st.title("Real-Time Financial Data Dashboard")
+st.title("Apple Inc. Intraday Dashboard")
 
 st.sidebar.title("Controls")
 
